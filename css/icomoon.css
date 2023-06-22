@@ -1,0 +1,147 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?bd16vn');
+  src:  url('fonts/icomoon.eot?bd16vn#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?bd16vn') format('truetype'),
+    url('fonts/icomoon.woff?bd16vn') format('woff'),
+    url('fonts/icomoon.svg?bd16vn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pencil:before {
+  content: "\e905";
+}
+.icon-phone:before {
+  content: "\e942";
+  color: #73b082;
+}
+.icon-map2:before {
+  content: "\e94c";
+ 
+}
+.icon-display:before {
+  content: "\e956";
+  color: #208637;
+}
+.icon-database:before {
+  content: "\e964";
+  color: #208637;
+}
+.icon-bubble2:before {
+  content: "\e96e";
+  color: #e4e5e6;
+}
+.icon-sphere:before {
+  content: "\e9c9";
+}
+.icon-earth:before {
+  content: "\e9ca";
+  color: #79a3f0;
+}
+.icon-embed:before {
+  content: "\ea7f";
+  color: #208637;
+}
+
+.icon-pencil:before {
+  content: "\e905";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-location2:before {
+  content: "\e948";
+}
+.icon-map2:before {
+  content: "\e94c";
+}
+.icon-clock:before {
+  content: "\e94e";
+}
+.icon-alarm:before {
+  content: "\e950";
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-mobile2:before {
+  content: "\e959";
+}
+.icon-download:before {
+  content: "\e960";
+}
+.icon-upload:before {
+  content: "\e961";
+}
+.icon-database:before {
+  content: "\e964";
+}
+.icon-bubble2:before {
+  content: "\e96e";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-search:before {
+  content: "\e986";
+  color: #e4e5e6;
+}
+.icon-cog:before {
+  content: "\e994";
+}
+.icon-rocket:before {
+  content: "\e9a5";
+}
+.icon-sphere:before {
+  content: "\e9c9";
+}
+.icon-earth:before {
+  content: "\e9ca";
+}
+.icon-infinite:before {
+  content: "\ea2f";
+  color: #e4e5e6;
+}
+.icon-embed:before {
+  content: "\ea7f";
+}
+.icon-mail2:before {
+  content: "\ea84";
+}
+.icon-mail4:before {
+  content: "\ea86";
+}
+.icon-google2:before {
+  content: "\ea89";
+}
+.icon-google3:before {
+  content: "\ea8a";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+
+.icon-github2:before {
+  content: "\eab0";
+  color: #208637;
+}
