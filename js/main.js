@@ -218,10 +218,10 @@ window.addEventListener("scroll", function(){
 		education.style.animation='disappear 1s ease-out both';
 	}
 
-	if(value > 4720){
+	if(value > 4520){
 		contact1.style.animation= 'fadeInDown 1s ease-out';
 		contact2.style.animation= 'fadeInUp 1s ease-out';
-	}else if(value < 4720){
+	}else if(value < 4520){
 		contact1.style.animation='disappear 1s ease-out both';
 		contact2.style.animation='disappear 1s ease-out both';
 	}
